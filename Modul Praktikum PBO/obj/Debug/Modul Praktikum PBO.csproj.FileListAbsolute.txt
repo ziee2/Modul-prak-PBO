@@ -1,0 +1,8 @@
+E:\NgodinG\C#\kuliah\Modul Praktikum PBO\Modul Praktikum PBO\obj\Debug\Modul Praktikum PBO.csproj.AssemblyReference.cache
+E:\NgodinG\C#\kuliah\Modul Praktikum PBO\Modul Praktikum PBO\obj\Debug\Modul Praktikum PBO.csproj.SuggestedBindingRedirects.cache
+E:\NgodinG\C#\kuliah\Modul Praktikum PBO\Modul Praktikum PBO\obj\Debug\Modul Praktikum PBO.csproj.CoreCompileInputs.cache
+E:\NgodinG\C#\kuliah\Modul Praktikum PBO\Modul Praktikum PBO\bin\Debug\Modul Praktikum PBO.exe.config
+E:\NgodinG\C#\kuliah\Modul Praktikum PBO\Modul Praktikum PBO\bin\Debug\Modul Praktikum PBO.exe
+E:\NgodinG\C#\kuliah\Modul Praktikum PBO\Modul Praktikum PBO\bin\Debug\Modul Praktikum PBO.pdb
+E:\NgodinG\C#\kuliah\Modul Praktikum PBO\Modul Praktikum PBO\obj\Debug\Modul Praktikum PBO.exe
+E:\NgodinG\C#\kuliah\Modul Praktikum PBO\Modul Praktikum PBO\obj\Debug\Modul Praktikum PBO.pdb
